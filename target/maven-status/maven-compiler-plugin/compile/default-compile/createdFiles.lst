@@ -1,0 +1,6 @@
+com\shopflow\paymentservice\config\KafkaConsumerConfig.class
+com\shopflow\paymentservice\controller\PaymentController.class
+com\shopflow\paymentservice\service\PaymentService.class
+com\shopflow\paymentservice\repository\PaymentRepository.class
+com\shopflow\paymentservice\PaymentServiceApplication.class
+com\shopflow\paymentservice\model\Payment.class
